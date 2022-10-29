@@ -1,12 +1,12 @@
 /README.md
-Hi there, Im Saeed wave
+Hi there, Im Saeed 
 
-seedling  I’m graduated in Data Science from Kharazmi University and Artificial Intelligence Ph.D. student
+ I’m graduated in Data Science from Kharazmi University and Artificial Intelligence Ph.D. student
 
-telescope I’m currently working in the field of data science
+ I’m currently working in the field of data science
 
-eyes I’m interested in Machine Learning and its various application
+ I’m interested in Machine Learning and its various application
 
-revolving_hearts I’m looking to collaborate on every filels of Deep Learning an Machine Learning 
+I’m looking to collaborate on every filels of Deep Learning an Machine Learning 
 
 mailbox How to reach me: saeedhamidi.azad@gmail.com
